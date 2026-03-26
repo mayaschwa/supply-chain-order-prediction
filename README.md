@@ -1,4 +1,4 @@
-# Supply Chain Order Prediction
+# Supply Chain Order Classification
 *Classification Model built for STAT 303-2 at Northwestern University - March 2025*
 
 ## Overview
